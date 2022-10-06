@@ -1,11 +1,18 @@
-- 👋 Hi, I’m @986654
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+#python program to check if a number is odd or even
+num = int (input (“Enter any number to test whether it is odd or even: “)
 
-<!---
-986654/986654 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-hi ,i am ravindara
+if (num % 2) == 0
+
+print (“The number is even”)
+
+else:
+
+print (“The provided number is odd”)              
+
+
+
+
+
+
+              
+
