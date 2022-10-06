@@ -1,4 +1,5 @@
 #python program to check if a number is odd or even
+
 num = int (input (“Enter any number to test whether it is odd or even: “)
 
 if (num % 2) == 0
